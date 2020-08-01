@@ -1,0 +1,6 @@
+Nghia;Ha Noi;10000
+Nghiep;Quang Nam;8000
+Duyen;Da Nang;13000
+Ha;Ha Noi;12000
+Thanh;Ha Noi;13000
+Phuong;Da Nang;8000
