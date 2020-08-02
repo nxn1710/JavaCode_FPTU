@@ -1,0 +1,5 @@
+Name: Xuan, Age: 20, Mark: 19.0
+Name: xuan, Age: 20, Mark: 18.0
+Name: nghiep, Age: 2, Mark: 1.1
+Name: xuan, Age: 222, Mark: 1.1
+Name: nghiep, Age: 10, Mark: 2.0
